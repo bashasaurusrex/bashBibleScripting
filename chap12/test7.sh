@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # testing string equality
-testuser=rex
+testuser=NoSuchName
 #
 if [ $USER = $testuser ]
 then
